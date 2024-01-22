@@ -111,7 +111,7 @@ if (isset($_SESSION["login"])) {
             <label class="form-check-label" for="remember_me">Remember Me</label>
           </div>
           <br>
-          <center><button type="submit" class="btn btn-success" style="font-weight: bolder; font-family: arial;" name="login">&emsp;<img src="icon/key.png">&ensp; Login &emsp;</button></center>
+          <center><button type="submit" class="btn btn-success" style="font-weight: bolder; font-family: arial;" name="login" title="Login">&emsp;<img src="icon/key.png">&ensp; Login &emsp;</button></center>
           <br>
 
           <center>
